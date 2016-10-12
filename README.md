@@ -1,2 +1,2 @@
-# prework1
+# prework
 prework for code fellows
